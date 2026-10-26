@@ -1,0 +1,6 @@
+English frequencies: FrequencyWords by Hermit Dave, generated from OpenSubtitles 2018 / OPUS.
+Source: https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/en/en_50k.txt
+Raw list is bundled unchanged. Runtime filtering accepts English letters and apostrophes and indexes them by T9 digits; ranked suggestions and filtered/indexed data retain CC BY-SA 4.0 terms.
+Content license: CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/ . Full text is in CC-BY-SA-4.0.txt.
+Upstream repository LICENSE is the MIT license for its code, retained separately for completeness; it is not the content license.
+Personal dictionary entries are user data and are not distributed in this package.

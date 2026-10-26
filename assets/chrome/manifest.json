@@ -1,0 +1,23 @@
+{
+  "name": "Chrome Blue",
+  "icons": [
+    "phone",
+    "messages",
+    "contacts",
+    "camera",
+    "music",
+    "gallery",
+    "browser",
+    "calendar",
+    "settings"
+  ],
+  "sizes": {
+    "icons": 432,
+    "wallpaper": [
+      1080,
+      1920
+    ]
+  },
+  "format": "PNG/JPG",
+  "license": "Derived from user-provided concept images for user use"
+}
